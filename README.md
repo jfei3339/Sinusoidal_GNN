@@ -1,1 +1,1 @@
-# Sinusoidal_GNN
+# Sinusoidal GNN
